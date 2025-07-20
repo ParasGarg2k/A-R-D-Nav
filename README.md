@@ -32,7 +32,7 @@ These algorithms can be run individually or compared in a combined experiment se
 
 ## 📽️ Demo Video & Results
 
-- 🔗 **[Demo Video](file/vid.mp4)**  
+- ![Demo Video](file/vid.mp4)  
 - ![Result Image](file/output.png) 
 
 ---
