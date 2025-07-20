@@ -33,6 +33,12 @@ These algorithms can be run individually or compared in a combined experiment se
 ## 📽️ Demo Video & Results
 
 - [Download Demo Video](files/video.mkv)
+- 
+<video width="600" controls>
+  <source src="files/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
   
 <p align="center">
