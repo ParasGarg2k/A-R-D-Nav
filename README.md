@@ -32,8 +32,8 @@ These algorithms can be run individually or compared in a combined experiment se
 
 ## 📽️ Demo Video & Results
 
-- 🔗 **[Demo Video](https://www.youtube.com/watch?v=your_video_link)**  
-- 🖼️ **[Result Images](https://imgur.com/a/your_image_album)**
+- 🔗 **[Demo Video](file/vid.mp4)**  
+- ![Result Image](file/output.png) 
 
 ---
 
