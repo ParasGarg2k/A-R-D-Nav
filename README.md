@@ -33,13 +33,6 @@ These algorithms can be run individually or compared in a combined experiment se
 ## 📽️ Demo Video & Results
 
 - [Download Demo Video](files/video.mkv)
-- 
-<video width="600" controls>
-  <source src="files/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
   
 <p align="center">
   <table>
@@ -48,7 +41,7 @@ These algorithms can be run individually or compared in a combined experiment se
       <td><img src="files/op1.png" alt="Output Result" width="400"/></td>
     </tr>
     <tr>
-      <td align="center"><b>Input Image</b></td>
+      <td align="center"><b>Intermediate Image</b></td>
       <td align="center"><b>Output Result</b></td>
     </tr>
   </table>
