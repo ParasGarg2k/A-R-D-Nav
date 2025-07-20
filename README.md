@@ -32,8 +32,22 @@ These algorithms can be run individually or compared in a combined experiment se
 
 ## 📽️ Demo Video & Results
 
-- ![Demo Video](file/vid.mp4)  
-- ![Result Image](file/output.png) 
+- [Download Demo Video](files/video.mkv)
+
+  
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="files/ip1.png" alt="Intermediate Image" width="400"/></td>
+      <td><img src="files/op1.png" alt="Output Result" width="400"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Input Image</b></td>
+      <td align="center"><b>Output Result</b></td>
+    </tr>
+  </table>
+</p>
+
 
 ---
 
